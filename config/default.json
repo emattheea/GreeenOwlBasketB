@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://EAM0311:geauxtigers@cluster0.jcme4.mongodb.net/DATABASE1?retryWrites=true&w=majority",
+    "jwtSecret": "JWT SECRET HERE"    
+}
